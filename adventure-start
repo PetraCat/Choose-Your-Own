@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="en-US"> 
+  <body bgcolor="BDEEFF" text="0E8BB6">
+    <center>
+<h1>Adventure Start!</h1>
+      
+    <br>
+      <video src="" controls></video>
+    <br>
+      
+      <p>
+      Option 1:
+        <a href="witchy.html">I am Not</a> 
+      </p>
+      <p>
+      Option 2
+        <a href="follow.html">Im with you!!</a>
+      </p>
+    </center>
+    
+  </body>
+    </html>
