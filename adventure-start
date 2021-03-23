@@ -9,13 +9,9 @@
     <br>
       
       <p>
-      Option 1:
-        <a href="witchy.html">I am Not</a> 
-      </p>
-      <p>
-      Option 2
-        <a href="follow.html">Im with you!!</a>
-      </p>
+      Option 1:<br><br><a href="witchy.html">I am Not</a><br><br>Option 2:<br><br><a href="follow.html">Im with you!!</a>
+
+       </p>
     </center>
     
   </body>
